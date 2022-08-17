@@ -1,6 +1,4 @@
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
-using DndFightClubGeneratorSite.Data;
+using DndFightClubGeneratorSite.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +6,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
+
+//Bracket services
+builder.Services.AddSingleton<IBracketGenerationService, BracketGenerationService>();
+builder.Services.AddSingleton<INameGeneratorService, NameGeneratorService>();
 
 var app = builder.Build();
 
