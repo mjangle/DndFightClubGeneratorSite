@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/mattangle/.nuget/packages/": {}
+    "C:\\Users\\nico\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mattangle/DndFightClubGeneratorSite/DndFightClubGeneratorSite/DndFightClubGeneratorSite.csproj",
+      "projectUniqueName": "C:\\Users\\nico\\RiderProjects\\DndFightClubGeneratorSite\\DndFightClubGeneratorSite.csproj",
       "projectName": "DndFightClubGeneratorSite",
-      "projectPath": "/Users/mattangle/DndFightClubGeneratorSite/DndFightClubGeneratorSite/DndFightClubGeneratorSite.csproj",
-      "packagesPath": "/Users/mattangle/.nuget/packages/",
-      "outputPath": "/Users/mattangle/DndFightClubGeneratorSite/DndFightClubGeneratorSite/obj/",
+      "projectPath": "C:\\Users\\nico\\RiderProjects\\DndFightClubGeneratorSite\\DndFightClubGeneratorSite.csproj",
+      "packagesPath": "C:\\Users\\nico\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nico\\RiderProjects\\DndFightClubGeneratorSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mattangle/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\nico\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
