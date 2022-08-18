@@ -259,3 +259,10 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyci
+obj/project.assets.json
+obj/DndFightClubGeneratorSite.csproj.nuget.dgspec.json
+obj/DndFightClubGeneratorSite.csproj.nuget.dgspec.json
+.gitignore
+obj/Debug/net6.0/DndFightClubGeneratorSite.assets.cache
+obj/Debug/net6.0/DndFightClubGeneratorSite.csproj.AssemblyReference.cache
+obj/Debug/net6.0/DndFightClubGeneratorSite.GeneratedMSBuildEditorConfig.editorconfig
